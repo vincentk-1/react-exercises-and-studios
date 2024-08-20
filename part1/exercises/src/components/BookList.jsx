@@ -1,7 +1,7 @@
 export default function BookList() {
    let pageTitle = "Books I have Read";
-   let book1 = "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1704216161i/164444179.jpg";
-   let book2 = "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1681136411i/60211228.jpg";
+   let book1 = "https://www.booklistqueen.com/wp-content/uploads/first-lie-wins-ashley-elston-200x300.jpg";
+   let book2 = "https://www.booklistqueen.com/wp-content/uploads/the-storm-we-made-vanessa-chan-200x300.jpg";
    let book3 = "https://www.booklistqueen.com/wp-content/uploads/mercury-amy-jo-burns-200x300.jpg";
 
    return (
