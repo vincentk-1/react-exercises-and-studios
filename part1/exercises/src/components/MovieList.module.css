@@ -1,11 +1,12 @@
-.movieText {
-   color: purple;
-   font-size: 1.3vw;
+
+.movieHeading {
+   color: rgb(0, 128, 43);
+   font-size: 2vw;
    text-align: left;
 }
 
-.movieHeading {
-   color: rgb(0, 128, 11);
-   font-size: 2vw;
+.movieText {
+   color: rgb(92, 0, 128);
+   font-size: 1vw;
    text-align: left;
 }

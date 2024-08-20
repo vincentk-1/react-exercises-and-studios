@@ -1,13 +1,14 @@
-.choresText {
-   color: rgb(128, 115, 0);
-   font-size: 2vw;
-   text-decoration: underline;
-}
-
 .choresHeading {
-   color: rgb(128, 115, 0);
-   font-size: 3vw;
-   font-style: italic;
+   color: rgb(190, 28, 22);
+   font-size: 2vw;
    font-weight: bold;
    text-decoration: underline;
+   text-align: left;
+}
+.choresText {
+   color: rgb(14, 116, 141);
+   font-size: 1vw;
+   text-align: left;
+   list-style-type: circle;
+   font-style: italic;
 }

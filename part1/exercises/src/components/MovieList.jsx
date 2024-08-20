@@ -7,7 +7,7 @@ class MovieList extends React.Component {
       return (
       <div>
          <h3 className = {classes.movieHeading}>Movies I Watched This Month</h3>
-         <ol>
+         <ol> 
             <li className={classes.movieText}>{movies[0]}</li>
             <li className={classes.movieText}>{movies[1]}</li>
             <li className={classes.movieText}>{movies[2]}</li>
